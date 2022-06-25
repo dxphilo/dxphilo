@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+  <h2>Habari Yako 👋</h2>
+  </div>
 
-<!--
-**dxphilo/dxphilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<div align="center">
+  
+✨ Software Developer | Technical Writer | Community-Organizer at [VuejsKenya](https://twitter.com/kenyavue)
+  
+ </div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Socials 😊 
+
+<a href="https://www.twitter.com/amjohnphilip">Twitter</a> | <a href="https://www.linkedin.com/in/amjohnphilip">LinkedIn</a> | <a href="https://johnphilip.dev/blogs">Blog</a> | <a href="https://www.youtube.com/channel/UCNCzNrpq0fHxFqQYCmbwAcA">YouTube</a> | <a href="https://www.instagram.com/amjohnphilip">Instagram</a>
+---
+</div>
