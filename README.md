@@ -13,6 +13,6 @@
 
 Socials 😊 
 
-<a href="https://www.twitter.com/amjohnphilip">Twitter</a> | <a href="https://www.linkedin.com/in/amjohnphilip">LinkedIn</a> | <a href="https://johnphilip.dev/blogs">Blog</a> | <a href="https://www.youtube.com/channel/UCNCzNrpq0fHxFqQYCmbwAcA">YouTube</a> | <a href="https://www.instagram.com/amjohnphilip">Instagram</a>
+<a href="https://www.twitter.com/amjohnphilip">Twitter</a> | <a href="https://www.linkedin.com/in/amjohnphilip">LinkedIn</a> | <a href="https://johnphilip.dev/blog">Blog</a> | <a href="https://www.youtube.com/channel/UCNCzNrpq0fHxFqQYCmbwAcA">YouTube</a> | <a href="https://www.instagram.com/amjohnphilip">Instagram</a>
 ---
 </div>
