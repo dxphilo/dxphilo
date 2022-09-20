@@ -9,10 +9,17 @@
   
  </div>
 
-<div align="center">
-
-Socials 😊 
-
-<a href="https://www.twitter.com/amjohnphilip">Twitter</a> | <a href="https://blogchain.app/id/john">Blogchain</a> | <a href="https://www.linkedin.com/in/amjohnphilip">LinkedIn</a> | <a href="https://johnphilip.dev/blog">Blog</a> | <a href="https://www.youtube.com/channel/UCNCzNrpq0fHxFqQYCmbwAcA">YouTube</a> | <a href="https://www.instagram.com/amjohnphilip">Instagram</a> 
+<p align="center">
+  <samp>
+    <a href="https://antfu.me">me</a> .
+    <a href="https://johnphilip.dev/blog">blog</a> .
+    <a href="https://antfu.me/projects">projects</a> .
+    <a href="https://www.twitter.com/amjohnphilip">tweets</a> .
+    <a href="https://chat.antfu.me">discord</a> .
+    <a href="https://instagram.com/amjohnphilip">instagram</a> .
+    <a href="https://www.linkedin.com/in/amjohnphilip">LinkedIn</a>
+    <a href="https://blogchain.app/id/john">Blogchain</a>
+    <a href="https://www.youtube.com/channel/UCNCzNrpq0fHxFqQYCmbwAcA">YouTube</a>
+  </samp>
+</p>
 ---
-</div>
