@@ -11,11 +11,11 @@
 
 <p align="center">
   <samp>
-    <a href="https://antfu.me">me</a> .
+    <a href="https://johnphilip.dev">me</a> .
     <a href="https://johnphilip.dev/blog">blog</a> .
-    <a href="https://antfu.me/projects">projects</a> .
+    <a href="https://github.com/dxphilo">projects</a> .
     <a href="https://www.twitter.com/amjohnphilip">tweets</a> .
-    <a href="https://chat.antfu.me">discord</a> .
+    <a href="https://discordapp.com/users/Johnphilip#5036">discord</a> .
     <a href="https://instagram.com/amjohnphilip">instagram</a> .
     <a href="https://www.linkedin.com/in/amjohnphilip">LinkedIn</a>
     <a href="https://blogchain.app/id/john">Blogchain</a>
