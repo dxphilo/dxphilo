@@ -19,6 +19,8 @@
     <a href="https://instagram.com/amjohnphilip">instagram</a> .
     <a href="https://www.linkedin.com/in/amjohnphilip">LinkedIn</a> .
     <a href="https://blogchain.app/id/john">Blogchain</a> .
-    <a href="https://www.youtube.com/channel/UCNCzNrpq0fHxFqQYCmbwAcA">YouTube</a>
+    <a href="https://www.youtube.com/channel/UCNCzNrpq0fHxFqQYCmbwAcA">YouTube</a> .
+    <a href="https://www.strava.com/athletes/107180498">Strava</a> .
+    <a href="https://open.spotify.com/user/31uffwl7lnb4c25eummff3sbyoyu">Spotify</a>
   </samp>
 </p>
