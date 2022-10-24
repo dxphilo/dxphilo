@@ -2,7 +2,6 @@
   <h2>Habari Yako 👋</h2>
   </div>
 
----
 <div align="center">
   
 ✨ Software Developer  • Technical Writer  • Co-Lead at [VuejsKenya](https://twitter.com/kenyavue)
