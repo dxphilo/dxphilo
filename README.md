@@ -5,7 +5,7 @@
 ---
 <div align="center">
   
-✨ Software Developer | Technical Writer | Co-Lead at [VuejsKenya](https://twitter.com/kenyavue)
+✨ Software Developer  • Technical Writer  • Co-Lead at [VuejsKenya](https://twitter.com/kenyavue)
   
  </div>
 
