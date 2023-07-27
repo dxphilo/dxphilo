@@ -1,6 +1,7 @@
 <p align="center">
   <samp>
     <a href="https://johnphilip.dev/articles">Blog</a> .
+    <a href="https://stackoverflow.com/users/11594100/john-philip">Stack Overflow</a> .
     <a href="https://www.linkedin.com/in/amjohnphilip">LinkedIn</a> .
     <a href="https://www.twitter.com/amjohnphilip">Tweets</a> .
     <a href="https://amjohnphilip.medium.com/">Medium</a> .
