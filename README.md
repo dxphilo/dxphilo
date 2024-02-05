@@ -3,7 +3,7 @@
     <a href="https://johnphilip.dev/articles">Blog</a> .
     <a href="https://stackoverflow.com/users/11594100/john-philip">Stack Overflow</a> .
     <a href="https://www.linkedin.com/in/amjohnphilip">LinkedIn</a> .
-    <a href="https://www.twitter.com/amjohnphilip">Tweets</a> .
+    <a href="https://twitter.com/intent/user?screen_name=amjohnphilip">Tweets</a> .
     <a href="https://amjohnphilip.medium.com/">Medium</a> .
     <a href="https://discordapp.com/users/Johnphilip#5036">Discord</a> .
     <a href="https://www.youtube.com/@dxphilo">YouTube</a> .
